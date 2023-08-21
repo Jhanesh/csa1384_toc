@@ -117,7 +117,9 @@ break;
 if(flag==1)
 printf("Acepted\n");
 else
+{
 printf("Not accepted\n");
 printf("Try with another input\n");
+}
 }
 }
